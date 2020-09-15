@@ -1,0 +1,13 @@
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.exe
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.deps.json
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.runtimeconfig.json
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.runtimeconfig.dev.json
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.dll
+D:\учёба\СПП\1 лаба\firstlab\firstlab\bin\Debug\netcoreapp3.1\firstlab.pdb
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.csprojAssemblyReference.cache
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.AssemblyInfoInputs.cache
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.AssemblyInfo.cs
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.csproj.CoreCompileInputs.cache
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.dll
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.pdb
+D:\учёба\СПП\1 лаба\firstlab\firstlab\obj\Debug\netcoreapp3.1\firstlab.genruntimeconfig.cache
