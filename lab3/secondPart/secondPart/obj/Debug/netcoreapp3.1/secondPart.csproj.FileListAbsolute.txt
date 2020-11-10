@@ -1,0 +1,13 @@
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.exe
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.deps.json
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.runtimeconfig.json
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.runtimeconfig.dev.json
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.dll
+D:\учёба\СПП\lab3\secondPart\secondPart\bin\Debug\netcoreapp3.1\secondPart.pdb
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.csprojAssemblyReference.cache
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.AssemblyInfoInputs.cache
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.AssemblyInfo.cs
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.csproj.CoreCompileInputs.cache
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.dll
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.pdb
+D:\учёба\СПП\lab3\secondPart\secondPart\obj\Debug\netcoreapp3.1\secondPart.genruntimeconfig.cache
